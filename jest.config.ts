@@ -7,7 +7,7 @@ export default {
   roots: ['<rootDir>/src'],
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   collectCoverage: true,
-  testEnviroment: 'node',
+  testEnvironment: 'node',
   transform: {
     '.+\\.ts$': 'ts-jest'
   }
