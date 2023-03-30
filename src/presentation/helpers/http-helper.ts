@@ -1,5 +1,5 @@
 import { MissingParamError } from "../erros/missing-param-error"
-import { ServerError } from "../erros/server-error"
+import { ServerError } from "../erros"
 import { HttpResponse } from "../protocols/http"
 
 
